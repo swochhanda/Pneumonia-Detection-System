@@ -1,4 +1,8 @@
 streamlit==1.46.1
 tensorflow==2.19.0
-numpy==1.26.4
-Pillow==10.4.0
+numpy
+pandas
+pillow
+scikit-learn
+matplotlib
+seaborn
